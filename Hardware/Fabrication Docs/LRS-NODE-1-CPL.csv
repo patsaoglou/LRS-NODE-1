@@ -1,3 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\Pantelis\Desktop\TL-LRNODE\TL-LRNODE\Project Outputs for TL-LRNODE\Pick Place for TL-LRNODE.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26-04-25
+Time:       03:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
 "U3","SPV1050","TopLayer","SPV1050","54.7500","51.5000","0","STMicroelectronics SPV1050 solar power harvester"
 "R13","9.1Meg","TopLayer","RES_0603_1608","49.9806","52.9645","0","RES 0 OHM JUMPER 0603"
