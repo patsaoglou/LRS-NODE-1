@@ -4,4 +4,4 @@
 
  Testing... So far good:-)
 
-<img src="./Resources/testing.jpeg">
+<img src="./Resources/testing.jpg">
